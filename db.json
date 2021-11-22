@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "title": "afsfasf",
+      "body": "fdafafa",
+      "publishedAt": "2021-12-31",
+      "id": 1
+    },
+    {
+      "title": "dad",
+      "body": "dawda",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "botir",
+      "email": "karimovbotir5@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Botir",
+      "email": "karimovbotir5@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "botir",
+      "email": "karimovbotir5@gmail.com",
+      "id": 3
+    }
+  ]
+}
